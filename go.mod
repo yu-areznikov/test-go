@@ -16,7 +16,7 @@ require (
 	github.com/facebookincubator/ent v0.2.1
 	github.com/go-kit/kit v0.10.0
 	github.com/go-sql-driver/mysql v1.5.1-0.20200311113236-681ffa848bae
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.5.2
 	github.com/goph/idgen v0.4.0
 	github.com/gorilla/handlers v1.4.2
 	github.com/gorilla/mux v1.7.4
@@ -33,10 +33,10 @@ require (
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.0
-	github.com/stretchr/testify v1.6.1
-	go.opencensus.io v0.22.3
-	google.golang.org/genproto v0.0.0-20200528191852-705c0b31589b
-	google.golang.org/grpc v1.29.1
+	github.com/stretchr/testify v1.8.1
+	go.opencensus.io v0.24.0
+	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f
+	google.golang.org/grpc v1.53.0
 	logur.dev/adapter/logrus v0.5.0
 	logur.dev/integration/watermill v0.5.0
 	logur.dev/logur v0.16.2
